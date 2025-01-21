@@ -1,4 +1,4 @@
-## Hi there 👋
+# Howdy there 🤠
 
 <!--
 **cweckhardt/cweckhardt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Overview
+I am a 1st-year PhD student in the Department of Medicinal Chemistry at the University of FLorida. My research focuses on marine chemical ecology, where I study the biosynthetic gene clusters and regulatory networks responsible for natural product metabolism. 
+### Computational Work
+As part of my research, I utilize a variety of tools to assist with data generation and analysis. Current interests include protein binding, protein folding, directed evolution, phylogenetics, and gene network analyses.
