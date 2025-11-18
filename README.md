@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### Overview
-I am a 1st-year PhD student in the Department of Medicinal Chemistry at the University of FLorida. My research focuses on marine chemical ecology, where I study the biosynthetic gene clusters and regulatory networks responsible for natural product metabolism. 
-### Computational Work
-As part of my research, I utilize a variety of tools to assist with data generation and analysis. Current interests include protein binding, protein folding, directed evolution, phylogenetics, and gene network analyses.
+I am a 2nd-year NSF Graduate Research Fellow in the Department of Medicinal Chemistry at the University of FLorida. My research investigates how protein pocket evolution shapes the functional and regulatory architecture of natural product biosynthetic pathways. Using integrated biochemical, analytical, and computational approaches, I examine the sequence–structure–function relationships that govern protein activity and diversification to elucidate the ecological roles of natural products. By linking protein evolution to metabolite function, my work aims to predict and reprogram protein activities to generate natural products with therapeutic potential, revealing the adaptive mechanisms that drive metabolic innovation and guiding the rational design of biosynthetic pathways.
+
+
